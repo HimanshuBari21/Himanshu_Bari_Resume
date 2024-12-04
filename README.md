@@ -64,14 +64,12 @@ A dynamic Web Developer with comprehensive expertise in React.js, TypeScript, an
 - Gujarati
 
 ## Soft Skills
-- Public Presentations
+- Public Presentations/Speaking
 - Verbal Communication
 - Team Collaboration
 - Problem-solving
 
 ## Additional Interests
 - Cycling
-- Swimming
 - Cooking
 - Traveling
-- Drawing and Painting
