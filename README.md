@@ -10,7 +10,7 @@ A dynamic Web Developer with comprehensive expertise in React.js, TypeScript, an
 ## Professional Experience
 
 ### Web Developer | Brainstorm Force, Pune (Remote)
-**May 2024 - Present**
+**May 2024 - Nov 2024**
 - Architected and maintained WordPress plugin front-ends using React.js, enhancing user interface performance and interactivity
 - Developed a comprehensive library of reusable React components, improving development efficiency across multiple plugins
 - Collaborated closely with back-end developers, designers, and QA teams to ensure seamless product integration
