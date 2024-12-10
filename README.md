@@ -16,7 +16,7 @@ A dynamic Web Developer with comprehensive expertise in React.js, TypeScript, an
 - Collaborated closely with back-end developers, designers, and QA teams to ensure seamless product integration
 - **Technologies**: React.js, Redux, PHP, MySQL, Tailwind CSS
 
-### Web Developer | Kalkani Systems, Surat
+### Junior Frontend Developer | Kalkani Systems, Surat
 **Dec 2022 - Feb 2024**
 - Developed dynamic websites implementing best practices and rigorous code review processes
 - Expanded technical skill set by mastering TypeScript, Tailwind CSS, Strapi, and Next.js
