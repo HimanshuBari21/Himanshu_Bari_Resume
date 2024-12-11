@@ -50,7 +50,7 @@ A dynamic Web Developer with comprehensive expertise in React.js, TypeScript, an
 ### Diploma in Information Technology
 **Gujarat Technological University**
 - Graduated: 2022
-- CGPA: 8.5
+- CGPA: 8.2
 
 ### Secondary School Certificate
 **Gujarat Higher and Secondary Education Board**
