@@ -1,75 +1,47 @@
-# Himanshu Yuvraj Bari
-**Web Developer | React.js & Front-End Specialist**
+## Himanshu Yuvraj Bari
 
-📍 Contact: himanshubari789@gmail.com | +91 88499 59488
-🌐 [GitHub](https://github.com/HimanshuBari21) | [LinkedIn](https://www.linkedin.com/in/himanshu-bari-8b31071b1/)
+himanshubari789@gmail.com | +91 88499 59488 | Pune, Maharashtra, India
 
-## Professional Summary
-A dynamic Web Developer with comprehensive expertise in React.js, TypeScript, and modern web technologies. Skilled in creating responsive, user-centric web applications with a strong background in front-end development. Proven ability to collaborate effectively with cross-functional teams and deliver high-quality, scalable solutions.
+LinkedIn (himanshu-bari-8b31071b1/) | Github (HimanshuBari21) **- 3 Years Experience
 
-## Professional Experience
+### Software Engineer - II** - Foto Owl AI, Pune
+_Jan, 2025 – Present_
+● Designing and implementing scalable software solutions to enhance product performance, PWA and
+UI/UX.
+● Collaborating with cross-functional teams to define, design, and ship new features using Shadcn,
+React Animation Libraries and Electron for Desktop App.
+● Learned about automation using AI Agents, N8n and Slack.
 
-### Web Developer | Brainstorm Force, Pune (Remote)
-**May 2024 - Nov 2024**
-- Architected and maintained WordPress plugin front-ends using React.js, enhancing user interface performance and interactivity
-- Developed a comprehensive library of reusable React components, improving development efficiency across multiple plugins
-- Collaborated closely with back-end developers, designers, and QA teams to ensure seamless product integration
-- **Technologies**: React.js, Redux, PHP, MySQL, Tailwind CSS
+### Software Engineer - I** - Brainstorm Force, Pune
+_April, 2024 – Dec, 2024_
+● Built and maintained plugin front-ends using **React.js** to enhance user interfaces.
+● Developed and maintained a library of reusable **React** components for use across multiple projects.
+● Collaborated closely with back-end developers, designers, and QA to ensure cohesive development
+efforts.
+● Primarily worked with **React.js, Redux, PHP, MySQL,** and **Tailwind CSS**.
 
-### Junior Frontend Developer | Kalkani Systems, Surat
-**Dec 2022 - Feb 2024**
-- Developed dynamic websites implementing best practices and rigorous code review processes
-- Expanded technical skill set by mastering TypeScript, Tailwind CSS, Strapi, and Next.js
-- Leveraged advanced libraries including React Query, Formik, React Hook Form, and Mantine UI
-- **Technologies**: TypeScript, React.js, Next.js, Tailwind CSS, Strapi
+### Junior Frontend Developer** - Kalkani Systems, Surat
+_Dec, 2022 – Feb, 2024_
+● Developed dynamic, responsive websites adhering to code reviews and best practices.
+● Gained experience with **TypeScript, Tailwind CSS, Strapi, Next.js,** and various libraries (e.g.,
+React Query, Formik, Mantine UI, Material UI).
 
-## Technical Skills
-### Frontend Technologies
-- React.js / Next.js
-- TypeScript
-- Tailwind CSS
-- State Management (Redux)
+**Skills**
+● **Frontend:** React.js, Next.js, TypeScript, Redux, Tailwind CSS, Material UI, Mantine UI and Shadcn.
+● **Backend & Database:** MERN, Electron, RestAPI, MongoDB and SQLite3.
+● **Tools & Other:** Git, Github, N8n, Slack, AI Automations, Cursor, Claude Projects.
 
-### Backend & Database
-- Node.js / Express.js
-- RestAPI
-- MongoDB (Atlas, Mongoose)
+**Educational Qualification**
+### Engineering in Information Technology
+**Gujarat Technological University, Ahmedabad - 2022**
+**8.2 CGPA**
 
-### Tools & Platforms
-- Git (GitHub, GitLab)
-- Google Workspace
-- MS Office
+**Project**
+● **College Website** (Developed for Gujarat Technical University Examination, April 2021)
+**● Swiggy Clone and MERN Blogging WebApp** (For UI/UX practice and Learning React)
+**● Real Time Chat** using Instant DB and Next JS - https://charcha-ten.vercel.app/
 
-## Project Work
-### College Website Project
-**Gujarat Technical University | April 2021**
-- Developed a comprehensive college website under the guidance of Mr. Rajesh Kumar Pendem
-- Demonstrated ability to create functional, user-friendly web solutions
+**Languages**
+● English, Hindi, Marathi, and Gujarati (Proficient)
 
-## Education
-### Diploma in Information Technology
-**Gujarat Technological University**
-- Graduated: 2022
-- CGPA: 8.2
 
-### Secondary School Certificate
-**Gujarat Higher and Secondary Education Board**
-- Graduated: 2018
-- Percentage: 63%
-
-## Languages
-- English (Professional)
-- Hindi
-- Marathi
-- Gujarati
-
-## Soft Skills
-- Public Presentations/Speaking
-- Verbal Communication
-- Team Collaboration
-- Problem-solving
-
-## Additional Interests
-- Cycling
-- Cooking
-- Traveling
