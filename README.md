@@ -4,7 +4,7 @@ himanshubari789@gmail.com | +91 88499 59488 | Pune, Maharashtra, India
 
 LinkedIn (himanshu-bari-8b31071b1/) | Github (HimanshuBari21) **- 3 Years Experience
 
-### Software Engineer - II** - Foto Owl AI, Pune
+### Software Engineer - Foto Owl AI, Pune
 _Jan, 2025 – Present_
 ● Designing and implementing scalable software solutions to enhance product performance, PWA and
 UI/UX.
@@ -12,7 +12,7 @@ UI/UX.
 React Animation Libraries and Electron for Desktop App.
 ● Learned about automation using AI Agents, N8n and Slack.
 
-### Software Engineer - I** - Brainstorm Force, Pune
+### Software Engineer - Brainstorm Force, Pune
 _April, 2024 – Dec, 2024_
 ● Built and maintained plugin front-ends using **React.js** to enhance user interfaces.
 ● Developed and maintained a library of reusable **React** components for use across multiple projects.
